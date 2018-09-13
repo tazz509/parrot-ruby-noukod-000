@@ -3,8 +3,8 @@
 def parrot(phrase = Squawk!, bird = Pretty bird!)
   if parrot then
   puts  "#{phrase}"
-else 
+else
   puts "bird"
 end
-
+end
 parrot
